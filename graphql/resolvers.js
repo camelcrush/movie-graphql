@@ -1,4 +1,4 @@
-import { getMovies } from "./db";
+import { getMovies } from "./db.js";
 
 const resolvers = {
   Query: {
